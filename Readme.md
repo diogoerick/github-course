@@ -12,3 +12,5 @@ teste só de escrita e salvando
 
 
 ver se o arquivo vai ser alterado por fora
+
+Agora fiz uma alteração depois de ter comitado
