@@ -24,3 +24,5 @@ Agora fiz uma alteração depois de ter comitado
 Agora eu já consigo alterar meu arquivo localmente e subir as alterações para o repositório remoto (origin).
 
 Saiba mais em [diogoerick.com](http://diogoerick.com)!
+
+O arquivo agora foi editado pelo notepad++.
